@@ -1,0 +1,66 @@
+[
+    {
+        "a\u00c3\u00b1o": 2000,
+        "metros": 100,
+        "habitaciones": 3,
+        "garage": "si",
+        "zona": "A",
+        "precio": 1500
+    },
+    {
+        "a\u00c3\u00b1o": 2012,
+        "metros": 60,
+        "Bodega": 3,
+        "garage": "si",
+        "zona": "B",
+        "precio": 1000
+    },
+    {
+        "a\u00c3\u00b1o": 1980,
+        "metros": 120,
+        "Casa": 4,
+        "garage": "no",
+        "zona": "A",
+        "precio": 800
+    },
+    {
+        "a\u00c3\u00b1o": 2005,
+        "metros": 75,
+        "habitaciones": 3,
+        "garage": "no",
+        "zona": "B",
+        "precio": 500
+    },
+    {
+        "a\u00c3\u00b1o": 2015,
+        "metros": 90,
+        "Bodega": 3,
+        "garage": "no",
+        "zona": "A",
+        "precio": 9500
+    },
+    {
+        "a\u00f1o": 2023,
+        "metros": 50,
+        "tipo": "Apartamento",
+        "garage": "no",
+        "zona": "C",
+        "precio": 700
+    },
+    {
+        "a\u00f1o": "1997",
+        "metros": "52",
+        "tipo": "apto",
+        "garage": "No",
+        "zona": "S",
+        "precio": "150"
+    },
+    {
+        "a\u00f1o": "2001",
+        "metros": "60",
+        "tipo": "local",
+        "garage": "SI",
+        "zona": "A",
+        "precio": "1050"
+    }
+]
